@@ -1,0 +1,5 @@
+time,weather,temperature,company,humidity,wind,goes
+morning,sunny,warm,Yes,Mild,Strong,Yes
+evening,rainy,cold,No,MIld,Normal,No
+morning,sunny,moderate,Yes,Normal,Normal,Yes
+evening,sunny,cold,Yes,High,Strong,Yes
